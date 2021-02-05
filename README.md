@@ -2,4 +2,4 @@
 
 ## Contains selected coursework with some MATLAB codes
 
-All questions of each assignmnent refer to the exercises in Fundamentals of Matrix Computations, 3rd Edition by David S. Watkins (ISBN: 978-0-470-52833-4)
+All exercises with specific codes refer to the exercises in Fundamentals of Matrix Computations, 3rd Edition by David S. Watkins (ISBN: 978-0-470-52833-4)
